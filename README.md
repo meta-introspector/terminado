@@ -89,3 +89,7 @@ more examples. This is a simplified version of the `single.py` demo.
 Run the unit tests with:
 
 > $ pytest
+
+# Guix
+
+`guix package --install-from-file=python-terminado.scm`
